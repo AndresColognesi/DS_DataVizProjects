@@ -4,6 +4,6 @@ This activity consists in building a visualization that answears a research ques
 
 The visual that was created for this activity is displayed below. One relevant point to highlight: each line displays it's maximum and minimum value for the considered time series of data.
 
-![USA Religion Analysis Compared to the World](USA_religion_analysis.png)
+![USA Religion Representativeness Compared to the World](USA_religion_representativeness.png)
 
 All code and information for this activity are contained in the Jupyter Notebook file (`ipynb` extension).
